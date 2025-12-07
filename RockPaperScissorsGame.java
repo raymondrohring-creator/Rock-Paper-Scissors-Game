@@ -17,6 +17,7 @@ public class RockPaperScissorsGame {
 		System.out.println("2 => Scissors");
 		int userChoice = scanner.nextInt();
 		System.out.println(userChoice);
+		scanner.close();
 		
 		// Validate User input - userChoice
 		if (userChoice < 0 || userChoice > 2)
@@ -47,8 +48,6 @@ public class RockPaperScissorsGame {
 		{
 			System.out.println("Computer wins!");
 		}
-
-		scanner.close();
 
 	}
 
