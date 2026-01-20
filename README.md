@@ -1,8 +1,3 @@
-Here’s a clean, well-structured README you can include with your project.
-If you'd like it in Markdown with badges, screenshots, or expanded documentation, just let me know!
-
----
-
 # Rock Paper Scissors Game
 
 A simple Java console application that allows a user to play **Rock, Paper, Scissors** against the computer. The program takes user input, randomly generates the computer’s choice, and determines the winner based on classic game rules.
@@ -81,12 +76,3 @@ rockPaperScissorsGame/
 * Track score over several rounds
 * Add error handling for non-numeric inputs
 * Build a simple GUI version
-
----
-
-If you want, I can also generate:
-✅ A README with images
-✅ A version formatted for GitHub with emojis and badges
-✅ A more technical or more beginner-friendly version
-
-Just tell me your style!
