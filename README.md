@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Rock, Paper, Scissors Game
 
 A simple Java console application that allows a user to play **Rock, Paper, Scissors** against the computer. The program takes user input, randomly generates the computer’s choice, and determines the winner based on classic game rules.
 
